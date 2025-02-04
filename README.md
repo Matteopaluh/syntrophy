@@ -1,5 +1,7 @@
-## Core cooperative metabolism in a low-complexity CO2-fixing anaerobic microbiota
+## Core cooperative metabolism in low-complexity CO<sub>2</sub>-fixing anaerobic microbiota
 
-This repository hosts files including metagenomic, metatranscriptomic and metabolites concentration data.
+[![DOI:10.1093/ismejo/wraf017](https://zenodo.org/badge/DOI/10.1093/ismejo/wraf017.svg)](https://doi.org/10.1093/ismejo/wraf017) _Link to the article_
 
-Moreover, genome-scale metabolic model files and relevant code for incorporating data are included.
+This GitHub repository hosts project files including metagenomic, metatranscriptomic and metabolites concentration data.
+
+Moreover, genome-scale metabolic models and relevant code for incorporating data into constraint-based modeling are included.
